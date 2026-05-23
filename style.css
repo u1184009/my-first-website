@@ -161,6 +161,11 @@ header {
     color: #CA8353;
 }
 
+.section h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 /* Skills */
 .skills-list {
     display: flex;
@@ -176,6 +181,7 @@ header {
 
     border: 1px solid rgba(202, 131, 83, 0.35);
 }
+
 
 /* Projects */
 .projects-container {

@@ -13,7 +13,7 @@ Follow best practices for a clean, modern design, the flow of the website should
 
 ## Prompt 2
 
-I want my background to be using the img/mountains.JPG as well as a color  that matches it. 
+I want my background to be using the img/mountains.JPG as well as a color that matches it. 
 
 ## Prompt 3
 
